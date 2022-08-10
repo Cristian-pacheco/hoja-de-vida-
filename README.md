@@ -1,6 +1,8 @@
 
 # hoja de vida
 ## ___cristian pacheco___
+
+
 ##### __edad__: 18 años 
 ##### __aprendiz/estudiante__:
 - ADSO
