@@ -9,7 +9,7 @@
 - ING.MECANICA
 ##### __conocimientos__
 - C++(basico)
-
+- markdown(principiante)
 #### __correo__
-
+- cristianpacheco.w@gmail.com
 - cristianpacheco10a@gmail.com
